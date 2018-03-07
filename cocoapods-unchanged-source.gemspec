@@ -8,7 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = CocoapodsUnchangedSource::VERSION
   spec.authors       = ['Keith Smiley']
   spec.email         = ['keithbsmiley@gmail.com']
-  spec.description   = %q{Don't check if a source repo is outdated, just assume it is}
+  spec.description   = %q{Don't check if your specs source repo is outdated, just assume it is}
+  spec.summary       = %q{Don't check if your specs source repo is outdated, just assume it is}
   spec.homepage      = 'https://github.com/keith/cocoapods-unchanged-source'
   spec.license       = 'MIT'
 
